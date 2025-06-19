@@ -77,8 +77,8 @@ Modify `accelerate_config_1.7b.yaml` for different hardware setups.
 ## 📚 Paper Citation
 ```bibtex
 @article{texttosql_llm_reasoning_aggregation,
-  title={Qwen3 Technical Report},
-  author={Yang, et al.},
+  title={Improving the Quality of SQL Query Generation based on a Text Query by aggregating Information from the reasoning of Various LLM Models},
+  author={Valerii Kropotin},
   year={2025}
 }
 ```
@@ -89,7 +89,7 @@ Modify `accelerate_config_1.7b.yaml` for different hardware setups.
 [MIT License]
 
 ## 👥 Contributors
-Kropotin Valery, 
+Valerii Kropotin
 
 ---
 
